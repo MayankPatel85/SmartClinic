@@ -1,6 +1,11 @@
 # smartclinic
 
-A new Flutter project.
+An app to search through doctors list according to your illness type and submit appointment.
+
+
+https://user-images.githubusercontent.com/72483518/119082839-86e5f480-ba1c-11eb-8d2b-c7811d9f92d9.mov
+
+Before launching the app,Please register an firebase app and add GoogleService-Info.plist file in the project. 
 
 ## Getting Started
 
